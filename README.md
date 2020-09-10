@@ -1,2 +1,2 @@
-# CambrianTestLab
-A repo for students to try to fork, write, and PR
+Hello,
+I am Zhihong Cai, I am a student in MAPD program! I love JAVA!
